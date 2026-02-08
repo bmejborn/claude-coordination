@@ -1,0 +1,10 @@
+{
+  "id": "task-1770561751",
+  "from": "botsy",
+  "to": "clawsy",
+  "type": "build",
+  "priority": "high",
+  "description": "Build and submit IronLog training app to TestFlight (same as golf app)",
+  "context_file": "handoffs/botsy-to-clawsy/ironlog-testflight-request.md",
+  "created_at": "2026-02-08T14:42:31Z"
+}
