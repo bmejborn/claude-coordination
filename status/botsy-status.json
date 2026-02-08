@@ -1,0 +1,17 @@
+{
+  "agent": "botsy",
+  "state": "idle",
+  "current_task": null,
+  "last_activity": "2026-02-08T14:55:00Z",
+  "capabilities": [
+    "research",
+    "code-review",
+    "file-operations",
+    "telegram-responses",
+    "task-coordination"
+  ],
+  "location": "telegram-bot-mac",
+  "working_directory": "/Users/bustermejborn/Desktop/Apps/",
+  "health": "ok",
+  "message": "Coordination repository initialized"
+}

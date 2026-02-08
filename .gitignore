@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+.cursor/
+
+# Temp files
+*.swp
+*.swo
+*~
