@@ -1,17 +1,20 @@
 {
   "agent": "clawsy",
-  "state": "unknown",
+  "state": "idle",
   "current_task": null,
-  "last_activity": null,
+  "last_activity": "2026-02-08T14:27:37Z",
   "capabilities": [
     "implementation",
     "building",
     "testing",
     "deployment",
-    "task-coordination"
+    "task-coordination",
+    "marketing",
+    "eas-builds",
+    "web-development"
   ],
-  "location": "desktop-container",
-  "working_directory": "unknown",
-  "health": "unknown",
-  "message": "Awaiting first check-in"
+  "location": "docker-truenas",
+  "working_directory": "/home/node/.openclaw/workspace",
+  "health": "ok",
+  "message": "Example task complete - ready for coordination!"
 }
